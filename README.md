@@ -1,2 +1,2 @@
-# SQL-Challenges-LeetCode
-I tackle SQL challenges from LeetCode to enhance my problem-solving and database management skills. I am using MySQL as the primary database management system for writing and executing queries
+# SQL Challenges-LeetCode
+In this repository, I tackle SQL challenges from LeetCode to enhance my problem-solving and database management skills. I am using MySQL as the primary database management system for writing and executing queries. These challenges cover a wide range of SQL concepts, including data retrieval, aggregation, filtering, and advanced query techniques, providing a comprehensive learning experience for improving SQL proficiency.
